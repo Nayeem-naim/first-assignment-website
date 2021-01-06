@@ -1,0 +1,138 @@
+body{
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-right: 80px;
+    font-family: 'Roboto', 'Regular';
+   
+}
+h1{
+    font-family: 'Bebas Neue',  Bold;
+    color: #363958;
+    font-size: 50px;
+}
+.text-color{
+    color:  #FF8367;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 60px;
+}
+.half-width p{
+    margin-bottom: 50px;
+}
+.half-width img{
+    width: 80%;
+    height:450px ;
+   }
+.image{
+    margin-top: -100px;
+   }
+.btn-link{
+    text-decoration: none;
+    background-image: linear-gradient( lightsalmon, tomato);
+    padding: 15px 40px;
+    border-radius: 10px;
+    font-weight: 300;
+    color: white;
+    margin-top: 20px;
+}
+#text{
+   padding-top: 100px;
+    text-align: center;
+    clear: both;
+}
+.width{
+    float: left;
+    padding: 15px;
+    margin: 5px;
+    width: 30%;
+    background-color: white;
+    box-shadow: 10px 10px 20px gray;
+    height: 400px;
+    border-radius: 10px; 
+}
+.width img{
+    width: 100%;
+}
+.width h1{
+    font-family: 'Roboto', 'Bold';
+    font-size: 24px;
+    clear: both;
+    margin-left: 10px;
+}
+.width p{
+    font-family: 'Roboto', 'Regular';
+    color: dimgray;
+    font-size: 16px;
+}
+.section3{
+    clear: both;
+    margin-bottom: 150px;
+    padding-bottom: 200px;
+}
+
+.bg{
+    clear: both;
+    margin-left: 100px;
+    padding-top: 100px;
+    margin-top: 200px;
+    background-image: url("img/Group_33094_1.png");
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-size: cover;
+    height: 180px;
+    width: 80%;
+}
+.half{
+    width: 30%;
+    float: left;
+    margin: 60px;
+}
+.half h2{
+    font-size: 50px;
+    color: white;
+    margin-top: -40px;
+}
+.half .btn-link{
+    margin-left: 100px;
+}
+.contact-us{
+    padding-top: 100px;
+    clear: both;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+   
+    width: 50%;
+    height: 25px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: ghostwhite;
+}
+textarea{
+  
+    text-align: center;
+    background-color: black;
+    color: ghostwhite;
+    width: 500px;
+}
+.footer{
+    padding-top: 100px;
+    text-align: center;
+}
+.footer p{
+    color: dimgray;
+}
+.center{
+       display: block;
+        margin-left: 550px;
+        margin-right: auto;
+}
+.center img{
+    height: 50px;
+    width: 50px;
+}
